@@ -1,0 +1,11 @@
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\UnitTestProject.deps.json
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\UnitTestProject.runtimeconfig.json
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\UnitTestProject.runtimeconfig.dev.json
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\UnitTestProject.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\UnitTestProject.pdb
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.csprojAssemblyReference.cache
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.csproj.CoreCompileInputs.cache
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.AssemblyInfoInputs.cache
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.AssemblyInfo.cs
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.csproj.CopyComplete
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.dll
+J:\Devops_Live_Practice\msbuild_project-master\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.2\UnitTestProject.pdb
